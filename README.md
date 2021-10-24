@@ -1,16 +1,110 @@
-### Hi there 👋
+### Oh, hi there! 👋
 
-<!--
-**Makosai/Makosai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### ❓ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Flutter & Unity C# projects
+
+- 🌱 I’m currently learning ML & expanding on DevOps
+
+- 👯 I’m looking to collaborate on ML projects
+
+- 💬 Ask me about why I became a programmer and why I'm still one
+
+- 📫 You can contact me via [my website](https://makosai.com)
+
+- ⚡ I like nerdy things (space, science, robots!) and enjoy Marvel
+
+- 🧠 My username was inspired by the voice actor of Iroh
+  
+<br />
+
+<p align="center">
+  <a href="https://makosai.com"><img alt="makosai.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://www.youtube.com/channel/UCCy74US6RU5B_adI7D-d5bw"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+  <a href="https://twitter.com/makosai_"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://www.linkedin.com/in/kristopher-ali/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://instagram.com/makosai_"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
+
+---
+
+#### 🖥️ Technical Skills
+
+<table style="width:100%">
+    <th>JavaSript</th>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/-React-black?logo=react&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-JQuery-000396?logo=jquery" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <th>Frontend</th>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/-JSX-black?logo=react&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Sass-eeeeff?logo=sass" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Material%20UI-444444?logo=material-ui" /></a>
+    </td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/-C%23-0A1C5E?logo=c%2B%2B&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-C++-78afc1?logo=c%2B%2B&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-C-787CB5?logo=c&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Java-007396?logo=java" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Python-ffff47?logo=python" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Go-4A99B0?logo=go&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-PHP-787CB5?logo=PHP&logoColor=black" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-COBOL-4875B5" /></a>
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/-Firestore-black?logo=firebase" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Firebase RDB-black?logo=firebase" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-black?&logo=mongodb" /></a>
+    </td>
+  </tr>
+  <tr>
+    <th>Other</th>
+    <td>
+      <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Wordpress-2396EF?logo=wordpress&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Unity-222222?logo=unity&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Git-black?logo=git" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github" /></a>
+    </td>
+  </tr>
+  <tr>
+    <th>See more</th>
+    <td>
+      <a href="https://makosai.com">On my website...</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+#### :octocat: My Github Stats
+
+<p align="center">
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=makosai&theme=default&show_icons=true&count_private=true&include_all_commits=true&custom_title=Makosai%27s%20statistics" /></a>
+</p>
+<p align="center">
+    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makosai&layout=compact&theme=default&hide=cmake,makefile&langs_count=10" /></a>
+</p>
+<p align="center">
+    <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makosai" /></a>
+</p>
+<p align="center"> <img src="https://gpvc.arturio.dev/makosai" alt="profile-views"> </p>
