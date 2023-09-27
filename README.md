@@ -4,7 +4,7 @@
 #### ❓ About Me
 
 
-- 🔭 I’m currently working on Flutter & Unity C# projects
+- 🔭 I’m currently working on React/Next.js & GDScript projects
 
 - 🌱 I’m currently learning ML & expanding on DevOps
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about why I became a programmer and why I'm still one
 
-- 📫 You can contact me via [my website](https://makosai.com)
+- 📫 You can contact me via [my website](https://kristech.io)
 
 - ⚡ I like nerdy things (space, science, robots!) and enjoy Marvel
 
@@ -21,11 +21,11 @@
 <br />
 
 <p align="center">
-  <a href="https://makosai.com"><img alt="makosai.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-  <a href="https://www.youtube.com/channel/UCCy74US6RU5B_adI7D-d5bw"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-  <a href="https://twitter.com/makosai_"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a href="https://kristech.io"><img alt="kristech.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+  <a href="https://www.youtube.com/@kristech_io"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+  <a href="https://twitter.com/kristech_io"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
   <a href="https://www.linkedin.com/in/kristopher-ali/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-  <a href="https://instagram.com/makosai_"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+  <a href="https://instagram.com/kristech_io"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 #### 🖥️ Technical Skills
 
 <table style="width:100%">
-    <th>JavaSript</th>
+    <th>JavaScript</th>
     <td>
       <a href="#"><img src="https://img.shields.io/badge/-React-black?logo=react&logoColor=Crayola" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" /></a>
@@ -89,7 +89,7 @@
   <tr>
     <th>See more</th>
     <td>
-      <a href="https://makosai.com">On my website...</a>
+      <a href="https://kristech.io">On my website...</a>
     </td>
   </tr>
 </table>
@@ -107,4 +107,4 @@
 <p align="center">
     <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makosai" /></a>
 </p>
-<p align="center"> <img src="https://gpvc.arturio.dev/makosai" alt="profile-views"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=makosai" alt="profile-views"> </p>
