@@ -4,7 +4,7 @@
 #### ❓ About Me
 
 
-- 🔭 I’m currently working on React/Next.js & GDScript projects
+- 🔭 I’m currently working on React/Next.js & Godot C#/GDScript projects
 
 - 🌱 I’m currently learning ML & expanding on DevOps
 
