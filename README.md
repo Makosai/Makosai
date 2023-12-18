@@ -99,7 +99,7 @@
 #### :octocat: My Github Stats
 
 <p align="center">
-    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=makosai&theme=default&show_icons=true&count_private=true&include_all_commits=true&custom_title=Makosai%27s%20statistics" /></a>
+    <a href="#"><img align="center" src="https://github-readme-stats-makosai.vercel.app/api?username=makosai&theme=default&show_icons=true&count_private=true&include_all_commits=true&custom_title=Makosai%27s%20statistics" /></a>
 </p>
 <p align="center">
     <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makosai&layout=compact&theme=default&hide=cmake,makefile&langs_count=10" /></a>
