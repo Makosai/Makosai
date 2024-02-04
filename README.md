@@ -5,11 +5,13 @@
 
 #### ❓ About Me
 
-- 🔭 I’m currently working on React/Next.js & Godot C#/GDScript projects
+- 🔭 I’m currently working on Godot GDScript, Rust, SvelteKit, C++, Go, and Flutter projects this year
 
-- 🌱 I’m currently learning ML & expanding on DevOps
+- 🏆 2023 I improved my DevOps, web development + SEO, and ML skills
 
-- 👯 I’m looking to collaborate on ML projects
+- 🌱 I’m currently improving my advanced skills in languages like Rust, C++, and Go
+
+- 👯 I’m looking to collaborate on Rust and C++ projects
 
 - 💬 Ask me about why I became a programmer and why I'm still one
 
