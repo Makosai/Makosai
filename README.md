@@ -38,55 +38,60 @@
 <table style="width:100%">
     <th>JavaScript</th>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/-React-black?logo=react&logoColor=Crayola" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-JQuery-000396?logo=jquery" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Nodejs-339933?logo=Node.js&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-JQuery-000396?style=for-the-badge&logo=jquery" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <th>Frontend</th>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/-JSX-black?logo=react&logoColor=Crayola" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Sass-eeeeff?logo=sass" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Material%20UI-444444?logo=material-ui" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-JSX-black?style=for-the-badge&logo=react&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Sass-eeeeff?style=for-the-badge&logo=sass" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Material%20UI-444444?style=for-the-badge&logo=material-ui" /></a>
     </td>
   </tr>
   <tr>
     <th>Backend</th>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/-C%23-0A1C5E?logo=c%2B%2B&logoColor=Crayola" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-C++-78afc1?logo=c%2B%2B&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-C-787CB5?logo=c&logoColor=Crayola" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Java-007396?logo=java" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Python-ffff47?logo=python" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Go-4A99B0?logo=go&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-PHP-787CB5?logo=PHP&logoColor=black" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-COBOL-4875B5" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Go-4A99B0?style=for-the-badge&logo=go&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-C++-78afc1?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-C%23-0A1C5E?style=for-the-badge&logo=c%2B%2B&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-C-787CB5?style=for-the-badge&logo=c&logoColor=Crayola" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Python-ffff47?style=for-the-badge&logo=python" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-PHP-787CB5?style=for-the-badge&logo=PHP&logoColor=black" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-COBOL-4875B5?style=for-the-badge" /></a>
     </td>
   </tr>
   <tr>
     <th>Databases</th>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/-Firestore-black?logo=firebase" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Firebase RDB-black?logo=firebase" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-black?&logo=mongodb" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Firestore-black?style=for-the-badge&logo=firebase" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Firebase RDB-black?style=for-the-badge&logo=firebase" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb" /></a>
     </td>
   </tr>
   <tr>
     <th>Other</th>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Wordpress-2396EF?logo=wordpress&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Unity-222222?logo=unity&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-Git-black?logo=git" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Wordpress-2396EF?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
