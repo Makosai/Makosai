@@ -84,6 +84,7 @@
   <tr>
     <th>Other</th>
     <td>
+      <a href="#"><img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=for-the-badge" /></a>
       <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Wordpress-2396EF?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Unity-222222?style=for-the-badge&logo=unity&logoColor=white" /></a>
