@@ -56,6 +56,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Sass-eeeeff?style=for-the-badge&logo=sass" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Material%20UI-444444?style=for-the-badge&logo=material-ui" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter" /></a>
     </td>
   </tr>
   <tr>
@@ -70,6 +71,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Python-ffff47?style=for-the-badge&logo=python" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-PHP-787CB5?style=for-the-badge&logo=PHP&logoColor=black" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-COBOL-4875B5?style=for-the-badge" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart" /></a>
     </td>
   </tr>
   <tr>
