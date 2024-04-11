@@ -24,10 +24,10 @@
 <br />
 
 <p align="center">
-  <a href="https://kristech.io"><img alt="kristech.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
-  <a href="https://www.youtube.com/@kristech_io"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
-  <a href="https://twitter.com/kristech_io"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a href="https://www.linkedin.com/in/kristopher-ali/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a href="https://kristech.io"><img alt="kristech.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@kristech_io"><img alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/kristech_io"><img alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kristopher-ali/"><img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>&nbsp;&nbsp;
   <a href="https://instagram.com/kristech_io"><img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 
