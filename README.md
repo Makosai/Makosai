@@ -19,6 +19,8 @@
 
 - ⚡ I like nerdy things (space, science, robots!) and enjoy Marvel
 
+- ⛰️ Hiking, roadtrips, auroras and mountains are cool and I do want to try bouldering sometime
+
 - 🧠 My username was inspired by the voice actor of Iroh
   
 <br />
