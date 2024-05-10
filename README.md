@@ -17,7 +17,7 @@
 
 - 📫 You can contact me via [my website](https://kristech.io)
 
-- ⚡ I like nerdy things (space, science, robots!) and enjoy Marvel
+- ⚡ I like nerdy things (chess, space, science, robots!) and enjoy Marvel
 
 - ⛰️ Hiking, roadtrips, auroras and mountains are cool and I do want to try bouldering sometime
 
