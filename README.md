@@ -5,13 +5,13 @@
 
 #### ❓ About Me
 
-- 🔭 I’m currently working on Godot GDScript, Rust, SvelteKit, C++, Go, and Flutter projects this year
+- 🔭 I’m currently working on Godot GDScript, Rust, SvelteKit, Zig, Go, and Flutter projects this year
 
 - 🏆 2023 I improved my DevOps, web development + SEO, and ML skills
 
 - 🌱 I’m currently improving my advanced skills in languages like Rust, C++, and Go
 
-- 👯 I’m looking to collaborate on Rust and C++ projects
+- 👯 I’m looking to collaborate on Rust and Zig projects
 
 - 💬 Ask me about why I became a programmer and why I'm still one
 
@@ -66,6 +66,7 @@
     <td>
       <a href="#"><img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-Go-4A99B0?style=for-the-badge&logo=go&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/-Zig-080808?style=for-the-badge&logo=zig&logoColor=F7A41D" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-C++-78afc1?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-C%23-0A1C5E?style=for-the-badge&logo=c%2B%2B&logoColor=Crayola" /></a>
       <a href="#"><img src="https://img.shields.io/badge/-C-787CB5?style=for-the-badge&logo=c&logoColor=Crayola" /></a>
