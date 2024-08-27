@@ -1,11 +1,11 @@
-### Oh, hi there! 👋
+## Oh, hi there! 👋
 
 [Want to see something cool? Check out this exciting new open-source action adventure game, Reia!](https://www.playreia.com)
 
 
-#### ❓ About Me
+### ❓ About Me
 
-- 🔭 I’m currently working on Godot GDScript, Rust, SvelteKit, Zig, Go, and Flutter projects this year
+- 🔭 I’m currently working on Godot GDScript, Zig, SvelteKit, Go, Rust, and Flutter projects this year
 
 - 🏆 2023 I improved my DevOps, web development + SEO, and ML skills
 
@@ -35,7 +35,7 @@
 
 ---
 
-#### 🖥️ Technical Skills
+### 🖥️ Technical Skills
 
 <table style="width:100%">
     <th>JavaScript</th>
@@ -110,7 +110,7 @@
 
 ---
 
-#### :octocat: My Github Stats
+### :octocat: My Github Stats
 
 <p align="center">
     <a href="#"><img align="center" src="https://mako-readme-stats.vercel.app/api?username=makosai&theme=default&show_icons=true&count_private=true&include_all_commits=true&custom_title=Makosai%27s%20statistics" /></a>
