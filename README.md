@@ -125,6 +125,6 @@
 
 ---
 
-## Star History
+## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=quaint-studios/reia,quaint-studios/sustenet,makosai/visp&type=Timeline)](https://star-history.com/#quaint-studios/reia&quaint-studios/sustenet&makosai/visp&Timeline)
