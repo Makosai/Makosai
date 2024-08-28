@@ -122,3 +122,9 @@
     <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makosai" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=makosai" alt="profile-views"> </p>
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=quaint-studios/reia,quaint-studios/sustenet,makosai/visp&type=Timeline)](https://star-history.com/#quaint-studios/reia&quaint-studios/sustenet&makosai/visp&Timeline)
