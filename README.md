@@ -1,7 +1,9 @@
 ## Oh, hi there! 👋
 
-[Want to see something cool? Check out this exciting new open-source action adventure game, Reia!](https://www.playreia.com)
+### 🎮 Want to see something cool?
+> **Check this out:** [Reia: the Open-Source Action Adventure Game](https://www.playreia.com).
 
+<br/>
 
 ### ❓ About Me
 
